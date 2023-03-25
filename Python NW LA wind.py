@@ -147,6 +147,6 @@ if wind == "NW" or wind == "NE" or wind == "SE" or wind == "SW":
 
 
 # This block of code is written for one direction and only Lower Air compartment
-#At the end of this module we will have is Mt_LA() for all cells at time t!
+#At the end of this module we will have is Mt_LA() for all cells at time tp!
 
 
